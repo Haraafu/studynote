@@ -8,7 +8,7 @@
 - [Day 4 Daily Log — Prediction Target and Dataset Requirement](#day-4-daily-log--prediction-target-and-dataset-requirement)
   - [Table of Contents](#table-of-contents)
   - [Daily Plans and Logs](#daily-plans-and-logs)
-    - [2026/05/14](#20260514)
+    - [2026/05/18](#20260518)
   - [Study Notes](#study-notes)
     - [Prediction Target Options](#prediction-target-options)
     - [Selected Initial Prediction Target](#selected-initial-prediction-target)
@@ -23,7 +23,7 @@
 
 ## Daily Plans and Logs
 
-### 2026/05/14
+### 2026/05/18
 
 **Short-term Goal**
 
