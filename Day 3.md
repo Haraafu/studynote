@@ -27,15 +27,15 @@
 
 **Short-term Goal**
 
-- [x] [Study main candidate algorithms for server thermal prediction](<replace-with-github-commit-url#boosting-based-model-objective>)
+- [x] Study main candidate algorithms for server thermal prediction
 
 **Daily-logs**:
 
-- `09:00–10:00`: [Boosting-Based Model Objective](<replace-with-github-commit-url#boosting-based-model-objective>)
-- `10:00–11:45`: [XGBoost Regressor](<replace-with-github-commit-url#xgboost-regressor>)
-- `13:00–14:30`: [LightGBM Regressor](<replace-with-github-commit-url#lightgbm-regressor>)
-- `14:30–15:45`: [Neural and Sequence-Based Alternatives](<replace-with-github-commit-url#neural-and-sequence-based-alternatives>)
-- `15:45–16:30`: [Initial Technical Decision](<replace-with-github-commit-url#initial-technical-decision>)
+- `09:00–10:00`: Boosting-Based Model Objective
+- `10:00–11:45`: XGBoost Regressor
+- `13:00–14:30`: LightGBM Regressor
+- `14:30–15:45`: Neural and Sequence-Based Alternatives
+- `15:45–16:30`: Initial Technical Decision
 
 ---
 

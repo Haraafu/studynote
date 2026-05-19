@@ -27,17 +27,17 @@
 
 **Short-term Goal**
 
-- [x] [Define prediction target and dataset requirement for ML-based server thermal prediction](<replace-with-github-commit-url#define-prediction-target-and-dataset-requirement-for-ml-based-server-thermal-prediction>)
+- [x] Define prediction target and dataset requirement for ML-based server thermal prediction
 
 **Daily-logs**:
 
-- `09:00–10:00`: [Prediction Target Options](<replace-with-github-commit-url#prediction-target-options>)
-- `10:00–11:00`: [Selected Initial Prediction Target](<replace-with-github-commit-url#selected-initial-prediction-target>)
-- `11:00–12:00`: [Input and Output Formulation](<replace-with-github-commit-url#input-and-output-formulation>)
-- `13:00–14:30`: [Dataset Requirement](<replace-with-github-commit-url#dataset-requirement>)
-- `14:30–15:30`: [Dataset Schema Design](<replace-with-github-commit-url#dataset-schema-design>)
-- `15:30–16:30`: [Technical Notes for Implementation](<replace-with-github-commit-url#technical-notes-for-implementation>)
-- `16:30–17:00`: [Clarification Questions for Supervisor](<replace-with-github-commit-url#clarification-questions-for-supervisor>)
+- `09:00–10:00`: Prediction Target Options
+- `10:00–11:00`: Selected Initial Prediction Target
+- `11:00–12:00`: Input and Output Formulation
+- `13:00–14:30`: Dataset Requirement
+- `14:30–15:30`: Dataset Schema Design
+- `15:30–16:30`: Technical Notes for Implementation
+- `16:30–17:00`: Clarification Questions for Supervisor
 
 ---
 

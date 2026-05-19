@@ -23,13 +23,13 @@
 
 **Short-term Goal**
 
-- [x] [Extract candidate algorithms from the thermal modeling review paper](<replace-with-github-commit-url#extract-algorithm-candidates-from-the-review-paper>)
+- [x] Extract candidate algorithms from the thermal modeling review paper
 
 **Daily-logs**:
 
-- `09:00–10:15`: [Project Framing as ML-Based Thermal Prediction](<replace-with-github-commit-url#project-framing-as-ml-based-thermal-prediction>)
-- `10:15–12:00`: [Extract Algorithm Candidates from the Review Paper](<replace-with-github-commit-url#extract-algorithm-candidates-from-the-review-paper>)
-- `13:00–15:00`: [Technical Scope for Initial Implementation](<replace-with-github-commit-url#technical-scope-for-initial-implementation>)
+- `09:00–10:15`: Project Framing as ML-Based Thermal Prediction
+- `10:15–12:00`: Extract Algorithm Candidates from the Review Paper
+- `13:00–15:00`: Technical Scope for Initial Implementation
 - `15:00–16:30`: Summarized relevant algorithm categories and excluded non-priority control algorithms.
 ---
 

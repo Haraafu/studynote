@@ -25,15 +25,15 @@
 
 **Short-term Goal**
 
-- [x] [Study baseline models for server temperature prediction](<replace-with-github-commit-url#baseline-modeling-objective>)
+- [x] Study baseline models for server temperature prediction
 
 **Daily-logs**:
 
-- `09:00–10:00`: [Baseline Modeling Objective](<replace-with-github-commit-url#baseline-modeling-objective>)
-- `10:00–11:30`: [Linear Regression as Baseline](<replace-with-github-commit-url#linear-regression-as-baseline>)
-- `13:00–14:30`: [Random Forest as Nonlinear Baseline](<replace-with-github-commit-url#random-forest-as-nonlinear-baseline>)
-- `14:30–15:45`: [Feature Engineering for Baseline Models](<replace-with-github-commit-url#feature-engineering-for-baseline-models>)
-- `15:45–16:30`: [Evaluation Setup](<replace-with-github-commit-url#evaluation-setup>)
+- `09:00–10:00`: Baseline Modeling Objective
+- `10:00–11:30`: Linear Regression as Baseline
+- `13:00–14:30`: Random Forest as Nonlinear Baseline
+- `14:30–15:45`: Feature Engineering for Baseline Models
+- `15:45–16:30`: Evaluation Setup
 
 ---
 
